@@ -1,6 +1,6 @@
 # API Practice
 
-### Choose one:
+
 
 - [Rick and Morty API](https://rickandmortyapi.com/)
 
